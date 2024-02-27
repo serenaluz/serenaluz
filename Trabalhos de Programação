@@ -1,0 +1,37 @@
+TRABALHO 1 
+O que é arquivo?
+É um campo de armazenamento em um dispositivo de memória secundária.
+Dessa forma podendo ser lido e escrito por um programa. Um arquivo tem o intuito de guardar grandes informações em um local só. Além disso, um arquivo pode ser organizado de diversos modos dependendo de como ele foi programado.
+tais como um arquivo de texto.
+O que é arquivo de texto?
+É um modo de armazenamento de informações dentro de um arquivo, no qual consiste em armazenar uma sequência de caracteres armazenados em linha, também os número são organizados em uma cadeia de caracteres. Com isso,
+cada linha desse arquivo é separada pela carácter 10 decimal (LF) ou o "/n".
+Portanto também existe uma indicação de fim de arquivo, final das linhas de caracteres. Sendo assim, sua função principal é evitar alguns problemas que ocorrem com arquivos no modo ficheiro.
+O que é uma variável?
+Variável é um algoritmo que soluciona alguma situação em uma linguagem compreensível para o computador, de uma forma mais concreta. Assim sendo,é um elemento fundamental para a programação, visto que soluciona problemas.
+Desse modo, ajuda no armazenamento de dados, pois o algoritmo organiza os dados.
+O que é servidor?
+É um local virtual é um elemento fundamental para a programação , visto que soluciona problemas.Desse modo, ajuda no armazenamento de dados, pois o algoritmo organiza os dados.
+O que é servidor?
+É um máquina que recebe requisições de diversos computadores, ele processa cada uma dessas requisições e entrega o resultado desse processamento para cada máquina que solicitou, ou seja, é uma máquina que serve outras máquinas. Sem assim, e uma máquina que possui mais capacidade de armazenamento e processamento que uma máquina comum.
+
+.................................................................................................................................................................................................................................................................................................................................................
+
+TRABALHO 2 
+1 – Encontre referências e comente:
+
+a. A relação entre a LGPD e os Data Centers no Brasil 
+Um Data Center é um local no qual diversas empresas utilizam para armazenar aplicativos e dados. Sendo assim, é caracterizado como uma rede de recursos de computação que possibilita compartilhar esses aplicativos e dados armazenados. Desse modo, com a LGPD, diversas empresas precisaram modificar e adaptar suas regras de privacidade, para proteger centenas de informações que se localizam em seus Data Centers. Uma vez que existem dados sensíveis de seus colaboradores, no qual precisam ter uma maior rede de proteção, pois estão mais suscetíveis a vazamentos.
+
+b. Formatos de arquivos de dados proprietários e abertos  
+Um arquivo de dados proprietários é aquele que possui uma patente, assim tendo seus dados privatizados. Já os arquivos abertos, os dados localizados nele seguem padrões abertos, assim implementável tanto em software proprietário como em software livre, usando as licenças típicas de cada um. 
+ 
+b.1 forneça exemplos de formatos
+Arquivos de dados de dados proprietários: DWG, SWF, DOC e PPT.
+Arquivos abertos: OASIS, LaTeX, Json, EPUB e DVI.
+
+
+ b.2 discuta as implicações relacionadas a dados públicos
+Com a LGPD, entende-se que atualmente muitos dados sensíveis devem ter uma proteção mais rigorosa quando comparados com dados que são de domínio público. Uma vez que os sensíveis, possuem informações de caráter pessoal. Portanto, é importante que as empresas diferenciam os dados no momento que passam a utilizar como algo público. 
+
+.............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
