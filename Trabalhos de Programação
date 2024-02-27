@@ -35,3 +35,22 @@ Arquivos abertos: OASIS, LaTeX, Json, EPUB e DVI.
 Com a LGPD, entende-se que atualmente muitos dados sensíveis devem ter uma proteção mais rigorosa quando comparados com dados que são de domínio público. Uma vez que os sensíveis, possuem informações de caráter pessoal. Portanto, é importante que as empresas diferenciam os dados no momento que passam a utilizar como algo público. 
 
 .............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+
+TRABALHO 3
+- Explique as diferenças entre 3 linguagens de programação
+1. Python:
+   - Facilidade de aprendizado e uso: Reconhecido por sua sintaxe limpa e legibilidade, Python é uma escolha excelente para iniciantes.
+   - Interpretado: Python é uma linguagem interpretada, o que significa que o código é executado linha por linha, sem a necessidade de compilação prévia.
+   - Versatilidade: Utilizado em uma ampla gama de aplicações, desde desenvolvimento web até análise de dados e machine learning.
+
+2. JavaScript:
+   - Linguagem de script do lado do cliente: Amplamente empregado para adicionar interatividade e dinamismo a páginas web, executando-se no navegador do usuário.
+   - Assíncrono: JavaScript suporta operações assíncronas, crucial para lidar com interações de usuário e chamadas de API em aplicações web.
+   - Ecossistema robusto: Possui uma vasta variedade de bibliotecas e frameworks, como React e Angular, que facilitam o desenvolvimento de aplicações web complexas.
+
+3. Java:
+   - Linguagem de programação orientada a objetos**: Baseado fortemente em princípios de programação orientada a objetos, como abstração, encapsulamento, herança e polimorfismo.
+   - Plataforma independente: O código Java é compilado em bytecode, podendo ser executado em qualquer máquina virtual Java (JVM), tornando-o altamente portátil.
+   - Segurança e robustez: Reconhecido por sua segurança e estabilidade, sendo amplamente utilizado em aplicações corporativas e sistemas críticos.
+
+
