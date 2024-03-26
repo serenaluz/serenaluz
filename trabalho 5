@@ -1,0 +1,28 @@
+1- 
+def bubble_sort(arr):
+    n = len(arr)
+    # Percorre todos os elementos do array
+    for i in range(n):
+        # Últimos i elementos já estão no lugar correto
+        for j in range(0, n-i-1):
+            # Percorre a lista do início ao fim, trocando elementos adjacentes se estiverem fora de ordem
+            if arr[j] > arr[j+1]:
+                arr[j], arr[j+1] = arr[j+1], arr[j]
+
+# Exemplo de uso:
+arr = [64, 34, 25, 12, 22, 11, 90]
+print("Array não ordenado:", arr)
+
+2- 
+def imprimir_vogais(texto):
+    vogais = "aeiouAEIOU"
+    vogais_encontradas = ""
+    for char in texto:
+        if char in vogais:
+            vogais_encontradas += char
+    return vogais_encontradas
+
+# Exemplo de uso:
+palavra_frase = "Python é uma linguagem de programação poderosa"
+vogais = imprimir_vogais(palavra_frase)
+print("Vogais encontradas:", vogais)
