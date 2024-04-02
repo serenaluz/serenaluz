@@ -1,0 +1,28 @@
+1- 
+![image](https://github.com/serenaluz/serenaluz/assets/159147631/3b3e2400-57d1-4100-a8f8-798c5188c055)
+def calcular_soma_e_media(lista):
+    soma = sum(lista)
+    media = soma / len(lista)
+    return soma, media
+if __name__ == "__main__":
+        numeros = [1, 2, 3, 4]
+    soma, media = calcular_soma_e_media(numeros)
+    print("Soma:", soma)
+    print("Média:", media)
+2-
+![image](https://github.com/serenaluz/serenaluz/assets/159147631/3707eb42-3c6f-46f1-9679-7b79073ec512)
+def substituir_palavra(lista, palavra_antiga, palavra_nova):
+    for i in range(len(lista)):
+        if lista[i] == palavra_antiga:
+            lista[i] = palavra_nova
+    return lista
+    palavras = ["banana", "morango", "limão"]
+    nova_lista = substituir_palavra(palavras, "banana", "maçã")
+    print("Lista alterada:", nova_lista)
+3-
+![image](https://github.com/serenaluz/serenaluz/assets/159147631/3e935d77-9fa3-4f1c-8085-59aada1315f5)
+def gerar_triangulo(n):
+    for i in range(1, n + 1):
+        print('*' * i)
+        n_linhas = 4
+    gerar_triangulo(n_linhas)
